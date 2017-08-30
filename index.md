@@ -1,6 +1,6 @@
-**E4571: Columbia University, Fall 2017**
-Data Science Institute
-Industrial Engineering and Operations Research
+### **E4571: Columbia University, Fall 2017**
+### Data Science Institute
+### Industrial Engineering and Operations Research
 
 
 
