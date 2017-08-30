@@ -13,8 +13,10 @@ This course will focus on common personalization algorithms and theory, includin
 
 ## Prerequisites
 
-Math: Linear algebra preferred, but not required
-CS: A scripting language, preferably Python
+**Math**: Linear algebra preferred, but not required
+
+**CS**: A scripting language, preferably Python
+
 
 ## Syllabus
 
