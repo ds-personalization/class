@@ -1,8 +1,8 @@
-### **E4571: Columbia University, Fall 2017**
-### Data Science Institute
-### Industrial Engineering and Operations Research
+**E4571: Columbia University, Fall 2017**  
+Data Science Institute  
+Industrial Engineering and Operations Research  
 
-
+**Instructor**: Brett Vintch
 
 
 ## Course Description 
@@ -36,17 +36,17 @@ This course will focus on common personalization algorithms and theory, includin
   * Real-time vs batch
   * Serendipity
   * Diversity
-  * How to incorporate new types of data
+  * How to incorporate new types of data  
     * User or Item features
     * Real-time user context
-  * Time-variance
+  * Time-variance  
     * User states or attribute drifts
     * Positive feedback loop
   * Aspirational vs actual (stated vs revealed)
 
 
 
-#### 2. Behavior-based personalization I
+#### 2. Behavior-based personalization I  
 *“Users with history like yours also like … “*
 
 - Nearest neighbors
@@ -76,7 +76,7 @@ This course will focus on common personalization algorithms and theory, includin
 - Bayesian approaches
 
 
-#### 5. Content based personalization
+#### 5. Content based personalization  
 *“Users that like content that [looks/sounds/reads] like this also might like…“*
 
 - Domains:
