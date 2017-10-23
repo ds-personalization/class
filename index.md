@@ -4,7 +4,8 @@ Industrial Engineering and Operations Research
 
 **Instructor**: Brett Vintch
 
-**with guest lectures by**
+
+**with guest lectures by**   
 Yan Karklin, Principle Data Scientest at Knewton  
 Saurabh Bhatnagar, Senior Data Scientist at Rent the Runway
 
