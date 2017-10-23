@@ -2,12 +2,12 @@
 Data Science Institute  
 Industrial Engineering and Operations Research  
 
-**Instructor**: Brett Vintch
+Instructor: **Brett Vintch**
 
 
-**with guest lectures by**   
-Yan Karklin, Principle Data Scientest at Knewton  
-Saurabh Bhatnagar, Senior Data Scientist at Rent the Runway
+with guest lectures by:  
+**Yan Karklin** | Principle Data Scientest at Knewton  
+**Saurabh Bhatnagar** | Senior Data Scientist at Rent the Runway
 
 
 ## Course Description 
